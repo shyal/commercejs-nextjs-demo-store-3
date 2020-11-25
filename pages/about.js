@@ -115,6 +115,7 @@ const About = () => (
               >
                 Read Blog
               </a>
+              <p>Site built by Shyal Beardsley</p>
             </div>
           </div>
         </div>
